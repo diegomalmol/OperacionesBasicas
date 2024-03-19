@@ -25,5 +25,10 @@ public class OperacionesBasicas {
         resultado = a+b;
         return resultado;
     }
+    public static int restar(int a, int b){
+        int resultado;
+        resultado = a - b;
+        return resultado;
+    }
     
 }
