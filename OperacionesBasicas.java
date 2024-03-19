@@ -25,5 +25,9 @@ public class OperacionesBasicas {
         resultado = a+b;
         return resultado;
     }
+    public static int producto(int a, int b){
+        int resultado = a*b:
+            return resultado;
+    }
     
 }
